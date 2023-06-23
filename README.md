@@ -47,7 +47,7 @@ chegada do primeiro cliente.
 ### Schemas
 
 Para representar os dados coletados e facilitar a manipulação, eles foram
-exportados de uma planilha para um tsv, que será manipulado levando em
+exportados de uma planilha para o formato json, que será manipulado levando em
 consideração o seguinte schema.
 
 ```python
@@ -63,13 +63,32 @@ Pedido(
 
 ### Os dados
 
-A seguir temos os dados coletados. Respectivamente, tempo de preparo de cada um
-dos sabores anotados no dia da coleta de dados, e os pedidos.
+A seguir os links para os arquivos com os dados coletados.
 
 - [pedidos](data/pedidos.json)
 - [sabores](data/sabores.json)
 
 ## Cenário
 
-O que vai interessar é o tempo de preparo total de cada pedido, priorizando que
-todos os items de um pedido sejam entregues da forma mais simultânea possível.
+**As observações se concentraram na observação do tempo de preparo**. Levando
+em consideração que no dia das anotações apenas uma pessoa estava preparando os
+pedidos, e sua capacidade de preparo simultâneo é de 3 items, as seguintes
+observações foram feitas sobre os dados.
+
+- qual a quantidade média de items por pedido?
+- qual o tempo médio de preparo dos pedidos?
+- faria sentido parar de priorizar o preparo por pedido e utilizar o preparo
+  por tipo de item. Priorizar o items que demoram mais?
+
+Durante a coleta inicial de informações, resolvemos perguntar aos colaboradores
+e proprietários do estabelecimento qual eram as principais preocupações
+relacionados ao preparo dos pedidos, as principais foram:
+
+- qualidade do preparo
+- tempo de preparo
+- todos os items do pedido chegarem ao mesmo tempo
+
+Uma melhoria futura que pode ser aplicada ao modelo é o incremento de outras
+variáveis que possam impactar na experiência de atendimento do cliente, tal
+como o tempo que um atendente demora para anotar os pedidos, ou no caso em
+questão, o tempo que o cliente ficaria na fila, para pagar no caixa.
