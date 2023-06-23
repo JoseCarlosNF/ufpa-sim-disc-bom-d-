@@ -1,0 +1,457 @@
+[
+  {
+    "tempo_chegada": "1",
+    "numero_pedido": "1",
+    "items": "Queijo, Manteiga"
+  },
+  {
+    "tempo_chegada": "2",
+    "numero_pedido": "2",
+    "items": "Ovo, Queijo, Molhada"
+  },
+  {
+    "tempo_chegada": "3",
+    "numero_pedido": "3",
+    "items": "Carne, Queijo, Manteiga"
+  },
+  {
+    "tempo_chegada": "10",
+    "numero_pedido": "4",
+    "items": "Frango, Queijo, Manteiga, Ovo"
+  },
+  {
+    "tempo_chegada": "15",
+    "numero_pedido": "5",
+    "items": "Queijo"
+  },
+  {
+    "tempo_chegada": "17",
+    "numero_pedido": "6",
+    "items": "Manteiga, Ovo, Molhada"
+  },
+  {
+    "tempo_chegada": "18",
+    "numero_pedido": "7",
+    "items": "Ovo, Queijo"
+  },
+  {
+    "tempo_chegada": "18",
+    "numero_pedido": "8",
+    "items": "Carne, Frango, Manteiga, Ovo, Queijo"
+  },
+  {
+    "tempo_chegada": "20",
+    "numero_pedido": "9",
+    "items": "Ovo, Manteiga, Molhada"
+  },
+  {
+    "tempo_chegada": "21",
+    "numero_pedido": "10",
+    "items": "Carne, Queijo"
+  },
+  {
+    "tempo_chegada": "25",
+    "numero_pedido": "11",
+    "items": "Frango, Queijo, Manteiga, Ovo"
+  },
+  {
+    "tempo_chegada": "35",
+    "numero_pedido": "12",
+    "items": "Queijo, Manteiga, Molhada"
+  },
+  {
+    "tempo_chegada": "36",
+    "numero_pedido": "13",
+    "items": "Ovo, Frango"
+  },
+  {
+    "tempo_chegada": "37",
+    "numero_pedido": "14",
+    "items": "Carne, Queijo, Ovo, Manteiga"
+  },
+  {
+    "tempo_chegada": "40",
+    "numero_pedido": "15",
+    "items": "Manteiga, Molhada"
+  },
+  {
+    "tempo_chegada": "42",
+    "numero_pedido": "16",
+    "items": "Queijo, Ovo, Manteiga"
+  },
+  {
+    "tempo_chegada": "43",
+    "numero_pedido": "17",
+    "items": "Carne, Frango, Ovo, Queijo"
+  },
+  {
+    "tempo_chegada": "44",
+    "numero_pedido": "18",
+    "items": "Manteiga, Ovo"
+  },
+  {
+    "tempo_chegada": "44",
+    "numero_pedido": "19",
+    "items": "Frango, Queijo, Manteiga"
+  },
+  {
+    "tempo_chegada": "45",
+    "numero_pedido": "20",
+    "items": "Queijo, Manteiga, Molhada"
+  },
+  {
+    "tempo_chegada": "60",
+    "numero_pedido": "21",
+    "items": "Ovo, Carne, Queijo, Manteiga(2"
+  },
+  {
+    "tempo_chegada": "62",
+    "numero_pedido": "22",
+    "items": "Frango, Manteiga, Ovo, Queijo"
+  },
+  {
+    "tempo_chegada": "63",
+    "numero_pedido": "23",
+    "items": "Carne, Manteiga"
+  },
+  {
+    "tempo_chegada": "64",
+    "numero_pedido": "24",
+    "items": "Ovo, Molhada, Frango, Queijo, Manteiga"
+  },
+  {
+    "tempo_chegada": "67",
+    "numero_pedido": "25",
+    "items": "Queijo, Ovo, Manteiga, Molhada"
+  },
+  {
+    "tempo_chegada": "69",
+    "numero_pedido": "26",
+    "items": "Carne, Frango"
+  },
+  {
+    "tempo_chegada": "70",
+    "numero_pedido": "27",
+    "items": "Queijo, Manteiga, Ovo"
+  },
+  {
+    "tempo_chegada": "72",
+    "numero_pedido": "28",
+    "items": "Ovo, Carne, Manteiga, Frango, Molhada"
+  },
+  {
+    "tempo_chegada": "75",
+    "numero_pedido": "29",
+    "items": "Queijo, Ovo, Manteiga, Carne"
+  },
+  {
+    "tempo_chegada": "80",
+    "numero_pedido": "30",
+    "items": "Frango, Manteiga, Ovo"
+  },
+  {
+    "tempo_chegada": "86",
+    "numero_pedido": "31",
+    "items": "Queijo, Manteiga, Ovo, Molhada"
+  },
+  {
+    "tempo_chegada": "90",
+    "numero_pedido": "32",
+    "items": "Carne, Frango, Ovo, Queijo, Manteiga"
+  },
+  {
+    "tempo_chegada": "91",
+    "numero_pedido": "33",
+    "items": "Queijo, Ovo"
+  },
+  {
+    "tempo_chegada": "92",
+    "numero_pedido": "34",
+    "items": "Manteiga, Molhada, Frango"
+  },
+  {
+    "tempo_chegada": "93",
+    "numero_pedido": "35",
+    "items": "Carne, Queijo, Ovo, Manteiga"
+  },
+  {
+    "tempo_chegada": "99",
+    "numero_pedido": "36",
+    "items": "Ovo, Queijo, Manteiga, Molhada, Carne"
+  },
+  {
+    "tempo_chegada": "105",
+    "numero_pedido": "37",
+    "items": "Frango, Queijo"
+  },
+  {
+    "tempo_chegada": "106",
+    "numero_pedido": "38",
+    "items": "Manteiga, Ovo, Carne"
+  },
+  {
+    "tempo_chegada": "107",
+    "numero_pedido": "39",
+    "items": "Queijo, Manteiga, Ovo"
+  },
+  {
+    "tempo_chegada": "110",
+    "numero_pedido": "40",
+    "items": "Molhada, Queijo, Manteiga"
+  },
+  {
+    "tempo_chegada": "111",
+    "numero_pedido": "41",
+    "items": "Carne, Queijo, Ovo, Manteiga"
+  },
+  {
+    "tempo_chegada": "111",
+    "numero_pedido": "42",
+    "items": "Frango, Manteiga, Ovo, Molhada"
+  },
+  {
+    "tempo_chegada": "112",
+    "numero_pedido": "43",
+    "items": "Queijo, Manteiga, Frango, Ovo, Carne"
+  },
+  {
+    "tempo_chegada": "115",
+    "numero_pedido": "44",
+    "items": "Manteiga, Queijo, Ovo"
+  },
+  {
+    "tempo_chegada": "117",
+    "numero_pedido": "45",
+    "items": "Carne, Manteiga, Molhada"
+  },
+  {
+    "tempo_chegada": "118",
+    "numero_pedido": "46",
+    "items": "Queijo, Ovo, Manteiga, Carne"
+  },
+  {
+    "tempo_chegada": "120",
+    "numero_pedido": "47",
+    "items": "Frango, Manteiga, Queijo, Molhada, Ovo"
+  },
+  {
+    "tempo_chegada": "121",
+    "numero_pedido": "48",
+    "items": "Manteiga, Queijo, Carne"
+  },
+  {
+    "tempo_chegada": "122",
+    "numero_pedido": "49",
+    "items": "Ovo, Queijo, Manteiga, Frango, Molhada"
+  },
+  {
+    "tempo_chegada": "125",
+    "numero_pedido": "50",
+    "items": "Carne, Queijo, Manteiga, Ovo"
+  },
+  {
+    "tempo_chegada": "126",
+    "numero_pedido": "51",
+    "items": "Ovo, Queijo"
+  },
+  {
+    "tempo_chegada": "127",
+    "numero_pedido": "52",
+    "items": "Frango, Manteiga, Molhada"
+  },
+  {
+    "tempo_chegada": "27",
+    "numero_pedido": "53",
+    "items": "Carne, Queijo, Manteiga, Ovo"
+  },
+  {
+    "tempo_chegada": "129",
+    "numero_pedido": "54",
+    "items": "Queijo, Manteiga, Frango, Molhada, Ovo"
+  },
+  {
+    "tempo_chegada": "132",
+    "numero_pedido": "55",
+    "items": "Ovo, Queijo"
+  },
+  {
+    "tempo_chegada": "133",
+    "numero_pedido": "55",
+    "items": "Ovo, Queijo"
+  },
+  {
+    "tempo_chegada": "135",
+    "numero_pedido": "57",
+    "items": "Frango, Queijo, Ovo"
+  },
+  {
+    "tempo_chegada": "136",
+    "numero_pedido": "58",
+    "items": "Queijo, Manteiga, Molhada, Carne"
+  },
+  {
+    "tempo_chegada": "138",
+    "numero_pedido": "59",
+    "items": "Ovo, Manteiga, Queijo"
+  },
+  {
+    "tempo_chegada": "140",
+    "numero_pedido": "60",
+    "items": "Frango, Manteiga, Ovo, Molhada"
+  },
+  {
+    "tempo_chegada": "145",
+    "numero_pedido": "61",
+    "items": "Queijo, Ovo, Manteiga, Carne, Frango"
+  },
+  {
+    "tempo_chegada": "149",
+    "numero_pedido": "62",
+    "items": "Manteiga, Queijo, Ovo"
+  },
+  {
+    "tempo_chegada": "155",
+    "numero_pedido": "63",
+    "items": "Carne, Manteiga, Molhada"
+  },
+  {
+    "tempo_chegada": "160",
+    "numero_pedido": "64",
+    "items": "Queijo, Ovo, Manteiga, Frango, Molhada"
+  },
+  {
+    "tempo_chegada": "168",
+    "numero_pedido": "65",
+    "items": "Carne, Queijo, Ovo, Manteiga"
+  },
+  {
+    "tempo_chegada": "172",
+    "numero_pedido": "66",
+    "items": "Ovo, Queijo"
+  },
+  {
+    "tempo_chegada": "180",
+    "numero_pedido": "67",
+    "items": "Frango, Manteiga, Ovo"
+  },
+  {
+    "tempo_chegada": "210",
+    "numero_pedido": "68",
+    "items": "Queijo, Manteiga, Carne, Ovo"
+  },
+  {
+    "tempo_chegada": "215",
+    "numero_pedido": "69",
+    "items": "Ovo, Queijo, Manteiga"
+  },
+  {
+    "tempo_chegada": "230",
+    "numero_pedido": "70",
+    "items": "Frango, Manteiga"
+  },
+  {
+    "tempo_chegada": "242",
+    "numero_pedido": "71",
+    "items": "Queijo, Ovo, Molhada"
+  },
+  {
+    "tempo_chegada": "255",
+    "numero_pedido": "72",
+    "items": "Carne, Frango, Manteiga"
+  },
+  {
+    "tempo_chegada": "261",
+    "numero_pedido": "73",
+    "items": "Ovo, Queijo, Manteiga"
+  },
+  {
+    "tempo_chegada": "262",
+    "numero_pedido": "74",
+    "items": "Queijo, Molhada, Ovo"
+  },
+  {
+    "tempo_chegada": "262",
+    "numero_pedido": "75",
+    "items": "Carne, Manteiga, Queijo, Frango, Ovo"
+  },
+  {
+    "tempo_chegada": "275",
+    "numero_pedido": "76",
+    "items": "Queijo, Manteiga, Carne, Molhada"
+  },
+  {
+    "tempo_chegada": "278",
+    "numero_pedido": "77",
+    "items": "Ovo, Queijo, Manteiga"
+  },
+  {
+    "tempo_chegada": "300",
+    "numero_pedido": "78",
+    "items": "Frango, Ovo, Manteiga"
+  },
+  {
+    "tempo_chegada": "305",
+    "numero_pedido": "79",
+    "items": "Queijo, Carne, Ovo, Molhada, Manteiga"
+  },
+  {
+    "tempo_chegada": "306",
+    "numero_pedido": "80",
+    "items": "Ovo, Queijo, Manteiga, Frango"
+  },
+  {
+    "tempo_chegada": "308",
+    "numero_pedido": "81",
+    "items": "Carne, Queijo, Ovo, Manteiga"
+  },
+  {
+    "tempo_chegada": "310",
+    "numero_pedido": "82",
+    "items": "Queijo, Manteiga, Frango, Molhada, Ovo"
+  },
+  {
+    "tempo_chegada": "315",
+    "numero_pedido": "83",
+    "items": "Ovo, Queijo, Manteiga"
+  },
+  {
+    "tempo_chegada": "318",
+    "numero_pedido": "84",
+    "items": "Carne, Manteiga, Frango"
+  },
+  {
+    "tempo_chegada": "322",
+    "numero_pedido": "85",
+    "items": "Queijo, Ovo, Manteiga, Molhada, Carne"
+  },
+  {
+    "tempo_chegada": "335",
+    "numero_pedido": "86",
+    "items": "Frango, Queijo, Ovo, Manteiga"
+  },
+  {
+    "tempo_chegada": "341",
+    "numero_pedido": "87",
+    "items": "Manteiga, Queijo, Ovo, Molhada"
+  },
+  {
+    "tempo_chegada": "347",
+    "numero_pedido": "88",
+    "items": "Carne, Queijo, Manteiga"
+  },
+  {
+    "tempo_chegada": "348",
+    "numero_pedido": "89",
+    "items": "Ovo, Queijo"
+  },
+  {
+    "tempo_chegada": "362",
+    "numero_pedido": "90",
+    "items": "Frango, Manteiga, Ovo, Carne, Molhada"
+  },
+  {
+    "tempo_chegada": "370",
+    "numero_pedido": "91",
+    "items": "Queijo, Manteiga, Ovo"
+  }
+]

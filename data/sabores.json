@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "queijo",
+    "minutos_preparo": "3"
+  },
+  {
+    "nome": "manteiga",
+    "minutos_preparo": "2"
+  },
+  {
+    "nome": "ovo",
+    "minutos_preparo": "3"
+  },
+  {
+    "nome": "carne",
+    "minutos_preparo": "5"
+  },
+  {
+    "nome": "molhada",
+    "minutos_preparo": "3"
+  },
+  {
+    "nome": "frango",
+    "minutos_preparo": "5"
+  }
+]
