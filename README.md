@@ -51,21 +51,14 @@ exportados de uma planilha para um tsv, que será manipulado levando em
 consideração o seguinte schema.
 
 ```python
-{
-  numero: 1,
-  tempo_chegada_cliente: 4,
-  items: [
-    {
-      sabor: 'queijo',
-      minutos_preparo: 3
-    },
-    {
-      sabor: 'manteiga',
-      minutos_preparo: 2
-    },
-  ],
-  minutos_preparo: 5
-}
+Pedido(
+  tempo_chegada='1',
+  numero_pedido='1',
+  items=[
+    Sabor(nome='queijo', minutos_preparo='3'),
+    Sabor(nome='manteiga', minutos_preparo='2')
+  ]
+)
 ```
 
 ### Os dados
