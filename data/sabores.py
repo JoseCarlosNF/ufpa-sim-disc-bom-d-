@@ -7,6 +7,9 @@ class Sabor:
     nome: str
     minutos_preparo: int
 
+    def __post_init__(self):
+        self.minutos_preparo = int(self.minutos_preparo)
+
 
 with open('data/sabores.json', encoding='utf-8') as f_sabores:
     sabores = [
