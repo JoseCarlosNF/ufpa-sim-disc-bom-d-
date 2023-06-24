@@ -26,3 +26,12 @@ def get_pedido_por_numero(numero_pedido: int):
     for pedido in pedidos:
         if pedido.numero_pedido == numero_pedido:
             return pedido
+
+def get_pedido_maior_numero_items():
+    pedido_mais_items = [pedidos[0]]
+    for pedido in pedidos:
+        if len(pedido.items) == len(pedido_mais_items[0].items):
+            pedido_mais_items.append(pedido)
+        elif len(pedido.items) > len(pedido_mais_items[0].items):
+            pedido_mais_items = [pedido]
+    return pedido_mais_items
