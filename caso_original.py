@@ -8,11 +8,6 @@ from simpy.resources.resource import Resource
 from data.pedidos import Pedido, pedidos
 
 
-@dataclass
-class Cozinheiro:
-    capacidade_preparo_simultaneo: int = 3
-
-
 class Tapiocaria:
     def __init__(self, env: Environment, cozinheiros: Resource):
         self.env = env
