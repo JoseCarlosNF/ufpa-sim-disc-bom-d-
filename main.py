@@ -42,7 +42,7 @@ if __name__ == '__main__':
     media_items_por_pedido = mean([len(pedido.items) for pedido in pedidos])
     env = Environment()
 
-    cozinheiros = Resource(env, capacity=3)
+    cozinheiros = Resource(env, capacity=1)
     tapiocaria = Tapiocaria(env, cozinheiros)
 
     for pedido in pedidos:
